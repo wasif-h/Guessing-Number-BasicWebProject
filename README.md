@@ -54,7 +54,7 @@ guessing_my_number/
 
 ## 📷 Screenshot:
 
-![Game Screenshot](![image](https://github.com/user-attachments/assets/5a6b4ce1-ca57-4c40-8493-ea1c4ff58463)
+![Game Screenshot](![image](https://github.com/user-attachments/assets/5a6b4ce1-ca57-4c40-8493-ea1c4ff58463))
 ) <!-- Replace this with an actual screenshot -->
 
 ## 👾 Demo:
@@ -66,7 +66,7 @@ Feel free to fork the repository and submit pull requests if you'd like to impro
 ## 🎉 Have Fun!
 Enjoy playing **Guessing My Number** and share it with friends!
 
-`Author : Wasif Hossain <wasif.hx@gmail.com>
+Author : Wasif Hossain <wasif.hx@gmail.com>
 ---
 
 ```
