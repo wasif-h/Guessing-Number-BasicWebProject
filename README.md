@@ -54,10 +54,11 @@ guessing_my_number/
 
 ## 📷 Screenshot:
 
-![Game Screenshot](https://via.placeholder.com/400x200) <!-- Replace this with an actual screenshot -->
+![Game Screenshot](![image](https://github.com/user-attachments/assets/5a6b4ce1-ca57-4c40-8493-ea1c4ff58463)
+) <!-- Replace this with an actual screenshot -->
 
 ## 👾 Demo:
-You can try out the live version of the game [here](#).
+You can try out the live version of the game [[here](https://wasif-h.github.io/Guessing-Number-BasicWebProject/)](#).
 
 ## 🤝 Contributing:
 Feel free to fork the repository and submit pull requests if you'd like to improve or extend the game!
@@ -65,6 +66,8 @@ Feel free to fork the repository and submit pull requests if you'd like to impro
 ## 🎉 Have Fun!
 Enjoy playing **Guessing My Number** and share it with friends!
 
+`Author : Wasif Hossain <wasif.hx@gmail.com>
 ---
 
 ```
+
